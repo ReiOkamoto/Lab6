@@ -1,0 +1,12 @@
+/*
+Theme Name:     child_theme
+Description:    
+Author:         ReiWordpress
+Template:       twentytwentyfive
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.wp-block-site-title {
+    color:#DB1A1A;
+}

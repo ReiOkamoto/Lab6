@@ -69,3 +69,27 @@
 [20-Mar-2026 18:36:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/ajax-actions.php on line 4340
 [20-Mar-2026 18:36:11 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/ajax-actions.php on line 4340
 [20-Mar-2026 18:36:11 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-includes/Requests/src/Cookie/Jar.php on line 32
+[20-Mar-2026 19:27:35 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Lab6/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[20-Mar-2026 19:29:46 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Lab6/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[20-Mar-2026 20:19:47 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 20480 bytes) in /workspaces/Lab6/.wordpress/wp-includes/formatting.php on line 3501
+[20-Mar-2026 20:19:49 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/Lab6/.wordpress/wp-content/themes/twentytwentyfive/patterns/more-posts.php on line 1
+[20-Mar-2026 20:19:51 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/ajax-actions.php on line 2905
+[20-Mar-2026 20:19:53 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/Lab6/.wordpress/wp-content/themes/twentytwentyfive/patterns/more-posts.php on line 1
+[20-Mar-2026 20:19:58 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/ajax-actions.php on line 3080
+[20-Mar-2026 20:19:58 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/menu.php on line 141
+[20-Mar-2026 20:20:02 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/menu.php on line 235
+[20-Mar-2026 20:20:04 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/menu.php on line 205
+[20-Mar-2026 20:20:05 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/menu.php on line 235
+[20-Mar-2026 20:20:05 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/ajax-actions.php on line 2905
+[20-Mar-2026 20:20:05 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/menu.php on line 230
+[20-Mar-2026 20:20:13 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/Lab6/.wordpress/wp-content/themes/twentytwentyfive/patterns/more-posts.php on line 1
+[20-Mar-2026 20:20:18 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/Lab6/.wordpress/wp-content/themes/twentytwentyfive/patterns/more-posts.php on line 1
+[20-Mar-2026 20:20:23 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 20480 bytes) in /workspaces/Lab6/.wordpress/wp-includes/formatting.php on line 616
+[20-Mar-2026 20:20:25 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/ajax-actions.php on line 2905
+[20-Mar-2026 20:20:28 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/ajax-actions.php on line 3080
+[20-Mar-2026 20:20:28 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/menu.php on line 233
+[20-Mar-2026 20:20:30 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/menu.php on line 205
+[20-Mar-2026 20:20:30 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/menu.php on line 235
+[20-Mar-2026 20:20:31 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-admin/includes/menu.php on line 151
+[20-Mar-2026 20:47:43 UTC] PHP Fatal error:  Out of memory (allocated 29360128 bytes) (tried to allocate 20480 bytes) in /workspaces/Lab6/.wordpress/wp-includes/functions.php on line 4681
+[20-Mar-2026 20:47:43 UTC] PHP Fatal error:  Out of memory (allocated 29360128 bytes) (tried to allocate 8192 bytes) in /workspaces/Lab6/.wordpress/wp-includes/Requests/src/Autoload.php on line 150
