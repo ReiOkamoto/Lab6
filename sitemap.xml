@@ -2,11 +2,6 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/locations-and-transportation/
         </loc>
     </url>
@@ -27,7 +22,72 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/category/host-country/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/vancouver/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/toronto/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/atlanta/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/boston/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/dallas/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/houston/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/kansas-city/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/los-angeles/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/miami/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/new-york-new-jersey/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/philadelphia/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/san-francisco-bay-area/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/seattle/
         </loc>
     </url>
     <url>
